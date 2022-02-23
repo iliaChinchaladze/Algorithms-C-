@@ -1,0 +1,13 @@
+C:\Users\chinc\source\repos\weej4portBigO\weej4portBigO\bin\Debug\netcoreapp3.1\weej4portBigO.exe
+C:\Users\chinc\source\repos\weej4portBigO\weej4portBigO\bin\Debug\netcoreapp3.1\weej4portBigO.deps.json
+C:\Users\chinc\source\repos\weej4portBigO\weej4portBigO\bin\Debug\netcoreapp3.1\weej4portBigO.runtimeconfig.json
+C:\Users\chinc\source\repos\weej4portBigO\weej4portBigO\bin\Debug\netcoreapp3.1\weej4portBigO.runtimeconfig.dev.json
+C:\Users\chinc\source\repos\weej4portBigO\weej4portBigO\bin\Debug\netcoreapp3.1\weej4portBigO.dll
+C:\Users\chinc\source\repos\weej4portBigO\weej4portBigO\bin\Debug\netcoreapp3.1\weej4portBigO.pdb
+C:\Users\chinc\source\repos\weej4portBigO\weej4portBigO\obj\Debug\netcoreapp3.1\weej4portBigO.csprojAssemblyReference.cache
+C:\Users\chinc\source\repos\weej4portBigO\weej4portBigO\obj\Debug\netcoreapp3.1\weej4portBigO.AssemblyInfoInputs.cache
+C:\Users\chinc\source\repos\weej4portBigO\weej4portBigO\obj\Debug\netcoreapp3.1\weej4portBigO.AssemblyInfo.cs
+C:\Users\chinc\source\repos\weej4portBigO\weej4portBigO\obj\Debug\netcoreapp3.1\weej4portBigO.csproj.CoreCompileInputs.cache
+C:\Users\chinc\source\repos\weej4portBigO\weej4portBigO\obj\Debug\netcoreapp3.1\weej4portBigO.dll
+C:\Users\chinc\source\repos\weej4portBigO\weej4portBigO\obj\Debug\netcoreapp3.1\weej4portBigO.pdb
+C:\Users\chinc\source\repos\weej4portBigO\weej4portBigO\obj\Debug\netcoreapp3.1\weej4portBigO.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\chinc\source\repos\week4BLabBooker\Week4BLabBooker\bin\Debug\Week4BLabBooker.exe.config
+C:\Users\chinc\source\repos\week4BLabBooker\Week4BLabBooker\bin\Debug\Week4BLabBooker.exe
+C:\Users\chinc\source\repos\week4BLabBooker\Week4BLabBooker\bin\Debug\Week4BLabBooker.pdb
+C:\Users\chinc\source\repos\week4BLabBooker\Week4BLabBooker\obj\Debug\Week4BLabBooker.csprojAssemblyReference.cache
+C:\Users\chinc\source\repos\week4BLabBooker\Week4BLabBooker\obj\Debug\Week4BLabBooker.Form1.resources
+C:\Users\chinc\source\repos\week4BLabBooker\Week4BLabBooker\obj\Debug\Week4BLabBooker.Properties.Resources.resources
+C:\Users\chinc\source\repos\week4BLabBooker\Week4BLabBooker\obj\Debug\Week4BLabBooker.csproj.GenerateResource.cache
+C:\Users\chinc\source\repos\week4BLabBooker\Week4BLabBooker\obj\Debug\Week4BLabBooker.csproj.CoreCompileInputs.cache
+C:\Users\chinc\source\repos\week4BLabBooker\Week4BLabBooker\obj\Debug\Week4BLabBooker.exe
+C:\Users\chinc\source\repos\week4BLabBooker\Week4BLabBooker\obj\Debug\Week4BLabBooker.pdb

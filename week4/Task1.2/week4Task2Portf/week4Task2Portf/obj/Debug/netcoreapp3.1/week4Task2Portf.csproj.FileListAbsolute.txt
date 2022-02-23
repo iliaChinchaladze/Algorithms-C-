@@ -1,0 +1,13 @@
+C:\Users\chinc\source\repos\week4Task2Portf\week4Task2Portf\obj\Debug\netcoreapp3.1\week4Task2Portf.csprojAssemblyReference.cache
+C:\Users\chinc\source\repos\week4Task2Portf\week4Task2Portf\obj\Debug\netcoreapp3.1\week4Task2Portf.AssemblyInfoInputs.cache
+C:\Users\chinc\source\repos\week4Task2Portf\week4Task2Portf\obj\Debug\netcoreapp3.1\week4Task2Portf.AssemblyInfo.cs
+C:\Users\chinc\source\repos\week4Task2Portf\week4Task2Portf\obj\Debug\netcoreapp3.1\week4Task2Portf.csproj.CoreCompileInputs.cache
+C:\Users\chinc\source\repos\week4Task2Portf\week4Task2Portf\bin\Debug\netcoreapp3.1\week4Task2Portf.exe
+C:\Users\chinc\source\repos\week4Task2Portf\week4Task2Portf\bin\Debug\netcoreapp3.1\week4Task2Portf.deps.json
+C:\Users\chinc\source\repos\week4Task2Portf\week4Task2Portf\bin\Debug\netcoreapp3.1\week4Task2Portf.runtimeconfig.json
+C:\Users\chinc\source\repos\week4Task2Portf\week4Task2Portf\bin\Debug\netcoreapp3.1\week4Task2Portf.runtimeconfig.dev.json
+C:\Users\chinc\source\repos\week4Task2Portf\week4Task2Portf\bin\Debug\netcoreapp3.1\week4Task2Portf.dll
+C:\Users\chinc\source\repos\week4Task2Portf\week4Task2Portf\bin\Debug\netcoreapp3.1\week4Task2Portf.pdb
+C:\Users\chinc\source\repos\week4Task2Portf\week4Task2Portf\obj\Debug\netcoreapp3.1\week4Task2Portf.dll
+C:\Users\chinc\source\repos\week4Task2Portf\week4Task2Portf\obj\Debug\netcoreapp3.1\week4Task2Portf.pdb
+C:\Users\chinc\source\repos\week4Task2Portf\week4Task2Portf\obj\Debug\netcoreapp3.1\week4Task2Portf.genruntimeconfig.cache
