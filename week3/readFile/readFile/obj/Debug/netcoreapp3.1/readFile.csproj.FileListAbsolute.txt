@@ -1,0 +1,13 @@
+C:\Users\chinc\source\repos\readFile\readFile\bin\Debug\netcoreapp3.1\readFile.exe
+C:\Users\chinc\source\repos\readFile\readFile\bin\Debug\netcoreapp3.1\readFile.deps.json
+C:\Users\chinc\source\repos\readFile\readFile\bin\Debug\netcoreapp3.1\readFile.runtimeconfig.json
+C:\Users\chinc\source\repos\readFile\readFile\bin\Debug\netcoreapp3.1\readFile.runtimeconfig.dev.json
+C:\Users\chinc\source\repos\readFile\readFile\bin\Debug\netcoreapp3.1\readFile.dll
+C:\Users\chinc\source\repos\readFile\readFile\bin\Debug\netcoreapp3.1\readFile.pdb
+C:\Users\chinc\source\repos\readFile\readFile\obj\Debug\netcoreapp3.1\readFile.csprojAssemblyReference.cache
+C:\Users\chinc\source\repos\readFile\readFile\obj\Debug\netcoreapp3.1\readFile.AssemblyInfoInputs.cache
+C:\Users\chinc\source\repos\readFile\readFile\obj\Debug\netcoreapp3.1\readFile.AssemblyInfo.cs
+C:\Users\chinc\source\repos\readFile\readFile\obj\Debug\netcoreapp3.1\readFile.csproj.CoreCompileInputs.cache
+C:\Users\chinc\source\repos\readFile\readFile\obj\Debug\netcoreapp3.1\readFile.dll
+C:\Users\chinc\source\repos\readFile\readFile\obj\Debug\netcoreapp3.1\readFile.pdb
+C:\Users\chinc\source\repos\readFile\readFile\obj\Debug\netcoreapp3.1\readFile.genruntimeconfig.cache
