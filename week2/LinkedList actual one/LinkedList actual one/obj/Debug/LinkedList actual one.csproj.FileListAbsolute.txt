@@ -1,0 +1,10 @@
+C:\Users\chinc\source\repos\LinkedList actual one\LinkedList actual one\obj\Debug\LinkedList actual one.csprojAssemblyReference.cache
+C:\Users\chinc\source\repos\LinkedList actual one\LinkedList actual one\obj\Debug\LinkedList_actual_one.Form1.resources
+C:\Users\chinc\source\repos\LinkedList actual one\LinkedList actual one\obj\Debug\LinkedList_actual_one.Properties.Resources.resources
+C:\Users\chinc\source\repos\LinkedList actual one\LinkedList actual one\obj\Debug\LinkedList actual one.csproj.GenerateResource.cache
+C:\Users\chinc\source\repos\LinkedList actual one\LinkedList actual one\obj\Debug\LinkedList actual one.csproj.CoreCompileInputs.cache
+C:\Users\chinc\source\repos\LinkedList actual one\LinkedList actual one\bin\Debug\LinkedList actual one.exe.config
+C:\Users\chinc\source\repos\LinkedList actual one\LinkedList actual one\bin\Debug\LinkedList actual one.exe
+C:\Users\chinc\source\repos\LinkedList actual one\LinkedList actual one\bin\Debug\LinkedList actual one.pdb
+C:\Users\chinc\source\repos\LinkedList actual one\LinkedList actual one\obj\Debug\LinkedList actual one.exe
+C:\Users\chinc\source\repos\LinkedList actual one\LinkedList actual one\obj\Debug\LinkedList actual one.pdb
