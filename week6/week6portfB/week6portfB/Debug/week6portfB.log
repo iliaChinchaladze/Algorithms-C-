@@ -1,0 +1,4 @@
+﻿  week6portfB.cpp
+C:\Users\chinc\source\repos\week6portfB\week6portfB\week6portfB.cpp(13,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chinc\source\repos\week6portfB\week6portfB\week6portfB.cpp(27,26): warning C4018: '<': signed/unsigned mismatch
+  week6portfB.vcxproj -> C:\Users\chinc\source\repos\week6portfB\Debug\week6portfB.exe
