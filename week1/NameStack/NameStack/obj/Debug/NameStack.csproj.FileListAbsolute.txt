@@ -1,0 +1,10 @@
+C:\Users\chinc\source\repos\NameStack\NameStack\obj\Debug\NameStack.csprojAssemblyReference.cache
+C:\Users\chinc\source\repos\NameStack\NameStack\obj\Debug\NameStack.Form1.resources
+C:\Users\chinc\source\repos\NameStack\NameStack\obj\Debug\NameStack.Properties.Resources.resources
+C:\Users\chinc\source\repos\NameStack\NameStack\obj\Debug\NameStack.csproj.GenerateResource.cache
+C:\Users\chinc\source\repos\NameStack\NameStack\obj\Debug\NameStack.csproj.CoreCompileInputs.cache
+C:\Users\chinc\source\repos\NameStack\NameStack\bin\Debug\NameStack.exe.config
+C:\Users\chinc\source\repos\NameStack\NameStack\bin\Debug\NameStack.exe
+C:\Users\chinc\source\repos\NameStack\NameStack\bin\Debug\NameStack.pdb
+C:\Users\chinc\source\repos\NameStack\NameStack\obj\Debug\NameStack.exe
+C:\Users\chinc\source\repos\NameStack\NameStack\obj\Debug\NameStack.pdb
