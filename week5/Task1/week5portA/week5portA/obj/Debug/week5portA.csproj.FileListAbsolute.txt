@@ -1,0 +1,10 @@
+C:\Users\chinc\source\repos\week5portA\week5portA\bin\Debug\week5portA.exe.config
+C:\Users\chinc\source\repos\week5portA\week5portA\bin\Debug\week5portA.exe
+C:\Users\chinc\source\repos\week5portA\week5portA\bin\Debug\week5portA.pdb
+C:\Users\chinc\source\repos\week5portA\week5portA\obj\Debug\week5portA.csprojAssemblyReference.cache
+C:\Users\chinc\source\repos\week5portA\week5portA\obj\Debug\week5portA.Form1.resources
+C:\Users\chinc\source\repos\week5portA\week5portA\obj\Debug\week5portA.Properties.Resources.resources
+C:\Users\chinc\source\repos\week5portA\week5portA\obj\Debug\week5portA.csproj.GenerateResource.cache
+C:\Users\chinc\source\repos\week5portA\week5portA\obj\Debug\week5portA.csproj.CoreCompileInputs.cache
+C:\Users\chinc\source\repos\week5portA\week5portA\obj\Debug\week5portA.exe
+C:\Users\chinc\source\repos\week5portA\week5portA\obj\Debug\week5portA.pdb
